@@ -142,31 +142,31 @@
         android:layout_height="@dimen/setting_height"
         android:orientation="horizontal">
 
-        <com.shixia.reader.widget.CircleImageView
+        <com.lzr.reader.widget.CircleImageView
             android:id="@+id/iv_bg_default"
             style="@style/setting_dialog_iv"
             android:layout_weight="1"
             android:src="@color/read_bg_default" />
 
-        <com.shixia.reader.widget.CircleImageView
+        <com.lzr.reader.widget.CircleImageView
             android:id="@+id/iv_bg_1"
             style="@style/setting_dialog_iv"
             android:layout_weight="1"
             android:src="@color/read_bg_1" />
 
-        <com.shixia.reader.widget.CircleImageView
+        <com.lzr.reader.widget.CircleImageView
             android:id="@+id/iv_bg_2"
             style="@style/setting_dialog_iv"
             android:layout_weight="1"
             android:src="@color/read_bg_2" />
 
-        <com.shixia.reader.widget.CircleImageView
+        <com.lzr.reader.widget.CircleImageView
             android:id="@+id/iv_bg_3"
             style="@style/setting_dialog_iv"
             android:layout_weight="1"
             android:src="@color/read_bg_3" />
 
-        <com.shixia.reader.widget.CircleImageView
+        <com.lzr.reader.widget.CircleImageView
             android:id="@+id/iv_bg_4"
             style="@style/setting_dialog_iv"
             android:layout_weight="1"

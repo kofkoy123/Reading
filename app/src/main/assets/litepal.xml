@@ -5,8 +5,8 @@
     <version value="1" ></version>
 
     <list>
-        <mapping class="com.shixia.reader.db.BookCatalogue"></mapping>
-        <mapping class="com.shixia.reader.db.BookList"></mapping>
-        <mapping class="com.shixia.reader.db.BookMarks"></mapping>
+        <mapping class="com.lzr.reader.db.BookCatalogue"></mapping>
+        <mapping class="com.lzr.reader.db.BookList"></mapping>
+        <mapping class="com.lzr.reader.db.BookMarks"></mapping>
     </list>
 </litepal>
